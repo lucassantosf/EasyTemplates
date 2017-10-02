@@ -1,0 +1,272 @@
+
+/*  -----------------------   Imagem transitória -------*/
+.imagemsuperior{
+    margin-left: -10px;
+    margin-top: -25px;
+    width: 1350px;
+}
+/*----------------------------Quadros -------------------------------------- */
+
+/*----------------Quadro 1 -----------------*/
+.quadro1:hover .quadrorosto1{
+    border-radius: 50px;
+    border: solid #66CDAA;    
+}
+.quadro1:hover {    
+    border: 3px solid #66CDAA;  
+    margin-top: 40px;
+    padding-top: 0px;
+    
+   
+}
+.quadro1:hover p{    
+    color: #66CDAA;    
+}
+.quadro1:hover h1{    
+    color: #66CDAA;    
+}
+.quadro1{
+    float: left;    
+   //padding-right: 10px;
+    padding-top: 40px;
+    margin-left: 150px;      
+    width: 250px;
+    height: 370px;
+}
+.animal1{
+    width: 250px;
+    position: relative;
+}
+.quadrorosto1{
+    position: absolute;
+    top: 865px; 
+    left: 240px;
+    width: 80px;
+    border: thin white;
+    border-radius: 40px;
+    opacity: 0.95;
+}
+.quadro1 h1{
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    opacity: 0.80;
+    color: #696969;
+    font-weight: 300;
+    word-spacing: 2px;
+}
+.quadro1 p{
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+    opacity: 0.80;
+    color: #696969;
+    font-weight: 300;
+    word-spacing: 2px;
+    line-height: 18px;
+}
+.linhaquadro1{
+    width: 0.5px; 
+    height: 350px; 
+    text-align:center;
+    position: absolute;       
+}
+
+
+
+/*----------------Quadro 2 -----------------*/
+
+.quadro2:hover .quadrorosto2{
+    border-radius: 50px;
+    border: solid #66CDAA;    
+}
+.quadro2:hover {    
+    border: 3px solid #66CDAA;  
+    margin-top: 40px;
+    padding-top: 0px;
+     
+}
+.quadro2:hover p{    
+    color: #66CDAA;    
+}
+.quadro2:hover h1{    
+    color: #66CDAA;    
+}
+.quadro2{
+    float: left;
+    padding-top: 40px;    
+    margin-left: 30px;      
+    width: 250px;
+    height: 370px;
+}
+.animal2{
+    width: 250px;
+    position: relative;
+}
+.quadrorosto2{
+    position: absolute;
+    top: 865px; 
+    left: 530px;
+    width: 80px;
+    border: thin white;
+    border-radius: 40px;
+    opacity: 0.95;
+}
+.quadro2 h1{
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    opacity: 0.80;
+    color: #696969;
+    font-weight: 300;
+    word-spacing: 2px;
+}
+.quadro2 p{
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+    opacity: 0.80;
+    color: #696969;
+    font-weight: 300;
+    word-spacing: 2px;
+    line-height: 18px;
+}
+.linhaquadro2{
+    width: 0.5px; 
+    height: 350px; 
+    text-align:center;
+    position: absolute;       
+}
+
+/*----------------Quadro 3 -----------------*/
+
+.quadro3:hover .quadrorosto3{
+    border-radius: 50px;
+    border: solid #66CDAA;    
+}
+.quadro3:hover {    
+    border: 3px solid #66CDAA;  
+    margin-top: 40px;
+    padding-top: 0px;
+       
+}
+.quadro3:hover p{    
+    color: #66CDAA;    
+}
+.quadro3:hover h1{    
+    color: #66CDAA;    
+}
+.quadro3{
+    float: left;
+    padding-top: 40px;    
+    margin-left: 30px;      
+    width: 250px;
+    height: 370px;
+}
+.animal3{
+    width: 250px;
+    position: relative;
+}
+.quadrorosto3{
+    position: absolute;
+    top: 865px; 
+    left: 810px;
+    width: 80px;
+    border: thin white;
+    border-radius: 40px;
+    opacity: 0.95;
+}
+.quadro3 h1{
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    opacity: 0.80;
+    color: #696969;
+    font-weight: 300;
+    word-spacing: 2px;
+}
+.quadro3 p{
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+    opacity: 0.80;
+    color: #696969;
+    font-weight: 300;
+    word-spacing: 2px;
+    line-height: 18px;
+}
+.linhaquadro3{
+    width: 0.5px; 
+    height: 350px; 
+    text-align:center;
+    position: absolute;       
+}
+
+
+/*----------------Quadro 4 -----------------*/
+
+.quadro4:hover .quadrorosto4{
+    border-radius: 50px;
+    border: solid #66CDAA;    
+}
+.quadro4:hover {    
+    border: 3px solid #66CDAA;  
+    margin-top: 40px;
+    padding-top: 0px;
+       
+}
+.quadro4:hover p{    
+    color: #66CDAA;    
+}
+.quadro4:hover h1{    
+    color: #66CDAA;    
+}
+.quadro4{
+    float: left;
+    padding-top: 40px;    
+    margin-left: 30px;      
+    width: 250px;
+    height: 370px;
+}
+.animal4{
+    width: 250px;
+    position: relative;
+}
+.quadrorosto4{
+    position: absolute;
+    top: 865px; 
+    left: 1090px;
+    width: 80px;
+    border: thin white;
+    border-radius: 40px;
+    opacity: 0.95;
+}
+.quadro4 h1{
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    opacity: 0.80;
+    color: #696969;
+    font-weight: 300;
+    word-spacing: 2px;
+}
+.quadro4 p{
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+    opacity: 0.80;
+    color: #696969;
+    font-weight: 300;
+    word-spacing: 2px;
+    line-height: 18px;
+}
+.linhaquadro4{
+    width: 0.5px; 
+    height: 350px; 
+    text-align:center;
+    position: absolute;       
+}

@@ -1,0 +1,42 @@
+footer{
+  background-image: url("imagens/210-150.png");
+  color: black;  
+  width: auto;
+  clear: both;
+  height: 150px; 
+  
+}
+.roda_alinhamento1{
+    float: left;    
+    color: white;
+    font-size: 12px;
+    padding: 23px;    
+}
+.roda_alinhamento2{
+    float: left;    
+    color: white;
+    font-size: 12px;
+    padding: 23px;
+}
+.roda_alinhamento3{
+    float: left;    
+    color: white;
+    font-size: 12px;
+    padding: 23px;
+}
+.roda_alinhamento4{
+    float: left;    
+    color: white;
+    font-size: 12px;
+    padding: 23px;
+}
+.rodapefinal{
+    word-spacing: 0.1px;
+    padding: 13px;
+    background-color: white;
+    text-align: left;
+    font-size: 10px;
+    opacity: 0.5;
+}
+
+

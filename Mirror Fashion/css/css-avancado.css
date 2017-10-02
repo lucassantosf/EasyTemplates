@@ -1,0 +1,27 @@
+h2 + p{
+	font-style: italic;
+}
+
+article > h1{
+	color: blue;
+}
+
+p{
+	color: gray;
+}
+p.especial{
+	color: black;
+}
+
+li:first-child {
+  color: red;
+}
+li:last-child {
+  color: blue;
+}
+a:link { 
+  background-color:#FF0000;
+}
+p:first-letter {
+  font-size: 200%;
+}

@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21/01/2015, 11:21:11
+    Author     : lucas
+*/
+p{
+    border: 2px black solid;
+}
+#p1{
+    width: 400px;
+    color: blue;
+    text-align: justify;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    text-indent: 20px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    word-spacing: 11px;
+}
+#p2{
+    width: 100px;
+    word-wrap: break-word;
+}
+
+#p3{
+    width: 400px;
+    white-space: pre-line;
+}
+#p4{
+    width: 150px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px #ff0000;
+}

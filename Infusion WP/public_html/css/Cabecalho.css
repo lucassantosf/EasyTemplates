@@ -1,0 +1,38 @@
+.logocabecalho{
+    background-color: #66CDAA;
+    padding-top: 25px;
+    padding-right: 20px;
+    width: 33%;
+}
+.tituloinicial{
+    margin-top: -10px;
+    margin-left: -10px;
+    background-color: #66CDAA;
+    width: 340px;
+    height: 70px;
+}
+/* ---------  Header        -----------------*/
+header{
+    
+}
+/* ---------  Menu Superior -----------------*/
+.menu-opcoes{
+    position: absolute;
+    top: 10px;
+    padding-left: 290px;
+    
+}
+
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 40px;
+}
+
+.menu-opcoes a{
+    color: #4F4F4F;
+    font-family: sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight:600;    
+}
+/* ------------            ------------------*/
